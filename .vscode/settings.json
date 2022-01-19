@@ -1,0 +1,5 @@
+{
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/f996fde3-2c2d-4e17-a678-e47bd7660b0e/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/elsa-third-app",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
